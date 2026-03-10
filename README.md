@@ -1,5 +1,8 @@
 # Lucidia Math
 
+[![CI](https://github.com/BlackRoad-OS/lucidia-math/actions/workflows/ci.yml/badge.svg)](https://github.com/BlackRoad-OS/lucidia-math/actions/workflows/ci.yml)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
+
 **Advanced mathematical engines: consciousness modeling, unified geometry, quantum finance, prime exploration.**
 
 ```bash
